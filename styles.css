@@ -168,8 +168,8 @@
     height: 105px;
   }
   
-  body{
-    background: url("../img/carro1.png");
+   body{
+    background-image: url("../img/logo.png");
     background-attachment: fixed;
   }
   
